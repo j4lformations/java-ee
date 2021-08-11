@@ -23,5 +23,6 @@
 	<modules>
 		<module>01_notions_servlet</module>
 		<module>02_notions_jsp</module>
+		<module>03_temp_converter</module>
 	</modules>
 </project>
