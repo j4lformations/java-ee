@@ -14,7 +14,7 @@
 <div class="content">
     <div class="header">projet converter</div>
     <div class="monForm shadow mt-5">
-        <div class="titre">login form</div>
+        <div class="titre bg-primary">login form</div>
         <form>
             <div class="mb-3">
                 <label for="login" class="form-label">Email</label>
@@ -26,6 +26,7 @@
             </div>
             <div>
                 <input type="submit" value="Valider" class="btn btn-primary"/>
+                <input type="reset" value="Reset" class="btn btn-secondary float-end"/>
             </div>
         </form>
     </div>
